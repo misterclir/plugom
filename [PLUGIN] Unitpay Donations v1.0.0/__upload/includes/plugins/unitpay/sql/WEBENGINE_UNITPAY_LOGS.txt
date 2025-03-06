@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[{TABLE_NAME}](
+	[transaction_id] [varchar](50) NULL,
+	[timestamp] [datetime] NULL,
+	[operator] [varchar](50) NULL,
+	[order_currency] [varchar](50) NULL,
+	[order_sum] [money] NULL,
+	[payment_type] [varchar](50) NULL,
+	[signature] [varchar](50) NULL,
+	[credits] [int] NULL,
+	[package] [varchar](50) NULL,
+	[username] [varchar](50) NULL
+) ON [PRIMARY]

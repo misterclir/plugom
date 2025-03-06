@@ -1,0 +1,22 @@
+{
+    "package1": {
+        "title": "Lorencia's WCoin Box",
+        "cost": "5.95",
+        "credits": "600"
+    },
+    "package2": {
+        "title": "Devias' WCoin Box",
+        "cost": "10.95",
+        "credits": "1500"
+    },
+    "package3": {
+        "title": "Dungeon's WCoin Box",
+        "cost": "59.95",
+        "credits": "7500"
+    },
+    "package4": {
+        "title": "Ultimate WCoin Box",
+        "cost": "199.99",
+        "credits": "30000"
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<required_level>400</required_level>
+	<required_master_level>0</required_master_level>
+	<required_resets>0</required_resets>
+	<time_limit_days>3</time_limit_days>
+	<reward_credit_config>0</reward_credit_config>
+	<reward_credit_amount>0</reward_credit_amount>
+</settings>

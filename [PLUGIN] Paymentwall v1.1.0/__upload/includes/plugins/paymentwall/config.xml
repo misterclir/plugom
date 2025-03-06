@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<credit_config>0</credit_config>
+	<project_key>key</project_key>
+	<secret_key>key</secret_key>
+	<widget>p1_1</widget>
+	<widget_width>636</widget_width>
+	<widget_height>500</widget_height>
+</settings>

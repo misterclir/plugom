@@ -1,0 +1,10 @@
+{
+    "active": "0",
+    "credit_config": "0",
+    "currency": "USD",
+    "project_id": "",
+    "secret_key": "",
+    "public_id": "",
+    "domain": "unitpay.money",
+    "currency_symbol": "$"
+}
